@@ -1,5 +1,3 @@
-"use client";
-
 import Link from "next/link";
 import { LOCATIONS, CALL_GIRLS_LOCATIONS, ESCORT_CATEGORIES, INFO_PAGES, Location, Category } from "@/data/locations";
 
