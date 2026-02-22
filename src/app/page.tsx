@@ -196,7 +196,7 @@ export default function Home() {
                     <p className="text-pink-600 text-sm">{testimonial.role}</p>
                   </div>
                 </div>
-                <p className="text-gray-600 italic">\"{{testimonial.testimonial}}\"</p>
+                <p className="text-gray-600 italic">\"{testimonial.testimonial}\"</p>
                 <div className="flex gap-1 mt-4 text-pink-500">★★★★★</div>
               </div>
             ))}
