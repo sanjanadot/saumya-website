@@ -61,10 +61,10 @@ export default function Home() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="animate-fade-in-up">
             <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-              Empowering <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-pink-700">Females</span> in Mumbai
+              Premium <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-pink-700">Escorts</span> in Mumbai
             </h1>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              Join thousands of women building careers, businesses, and communities. Access exclusive opportunities, mentorship, and resources tailored for you.
+              Experience premium companion services with beautiful, professional escorts. Discreet, reliable, and available for your special occasions, dates, and events.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button className="px-8 py-4 bg-gradient-to-r from-pink-500 to-pink-700 text-white rounded-lg font-semibold hover:shadow-lg hover:shadow-pink-300 transition transform hover:scale-105">
@@ -78,16 +78,16 @@ export default function Home() {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-6 mt-12">
               <div>
-                <div className="text-3xl font-bold text-pink-600">50K+</div>
-                <p className="text-gray-600 text-sm">Active Users</p>
+                <div className="text-3xl font-bold text-pink-600">500+</div>
+                <p className="text-gray-600 text-sm">Verified Escorts</p>
               </div>
               <div>
-                <div className="text-3xl font-bold text-pink-600">1000+</div>
-                <p className="text-gray-600 text-sm">Opportunities</p>
+                <div className="text-3xl font-bold text-pink-600">10K+</div>
+                <p className="text-gray-600 text-sm">Happy Clients</p>
               </div>
               <div>
-                <div className="text-3xl font-bold text-pink-600">15K+</div>
-                <p className="text-gray-600 text-sm">Success Stories</p>
+                <div className="text-3xl font-bold text-pink-600">24/7</div>
+                <p className="text-gray-600 text-sm">Available</p>
               </div>
             </div>
           </div>
@@ -107,40 +107,40 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Why Choose Saumya?</h2>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">Comprehensive platform built specifically for the needs of female professionals in Mumbai</p>
+            <p className="text-xl text-gray-600 max-w-2xl mx-auto">Premium escort services with verified profiles, professional companions, and guaranteed discretion</p>
           </div>
           
           <div className="grid md:grid-cols-3 gap-8">
             {[
               {
-                icon: "💼",
-                title: "Career Growth",
-                description: "Access exclusive job opportunities, internships, and career mentorship from industry leaders."
+                icon: "✨",
+                title: "Verified Profiles",
+                description: "100% verified, authentic escorts with detailed profiles and genuine photos."
               },
               {
-                icon: "💡",
-                title: "Business Support",
-                description: "Launch your startup with funding opportunities, business mentors, and co-working spaces."
+                icon: "🔒",
+                title: "Complete Discretion",
+                description: "Your privacy is our priority. Confidential bookings and secure transactions guaranteed."
               },
               {
-                icon: "📚",
-                title: "Skill Development",
-                description: "Learn in-demand skills with courses designed by experts and industry professionals."
+                icon: "⭐",
+                title: "Premium Quality",
+                description: "Carefully selected companions offering exceptional service and memorable experiences."
               },
               {
-                icon: "🤝",
-                title: "Networking",
-                description: "Connect with like-minded women, build valuable relationships, and collaborate on projects."
+                icon: "📞",
+                title: "Easy Booking",
+                description: "Simple and secure booking process. Available for events, dates, and companionship."
               },
               {
-                icon: "💪",
-                title: "Empowerment",
-                description: "Join a supportive community dedicated to women's growth and success stories."
+                icon: "⏰",
+                title: "24/7 Availability",
+                description: "Escorts available anytime, day or night for your convenience."
               },
               {
-                icon: "🎯",
-                title: "Guidance",
-                description: "Get personalized advice from experienced mentors who understand your unique challenges."
+                icon: "💯",
+                title: "Satisfaction Guarantee",
+                description: "Professional service with client satisfaction as our top priority."
               }
             ].map((feature, idx) => (
               <div
@@ -160,29 +160,29 @@ export default function Home() {
       <section id="testimonials" className="py-20 sm:py-32 bg-gradient-to-br from-pink-50 to-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Success Stories</h2>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">Hear from women transforming their lives and careers</p>
+            <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Client Reviews</h2>
+            <p className="text-xl text-gray-600 max-w-2xl mx-auto">Hear from our satisfied clients about their experiences</p>
           </div>
           
           <div className="grid md:grid-cols-3 gap-8">
             {[
               {
-                name: "Priya Sharma",
-                role: "Tech Entrepreneur",
-                testimonial: "Saumya connected me with the right mentors and investors. My startup is now valued at $2M!",
-                avatar: "👩‍💻"
+                name: "Rajesh K.",
+                role: "Client",
+                testimonial: "Excellent service! Professional, discreet, and exactly as described. Highly recommended!",
+                avatar: "😊"
               },
               {
-                name: "Anjali Patel",
-                role: "Product Manager",
-                testimonial: "Through the skill development courses, I got promoted to Senior PM at a top tech company.",
-                avatar: "👩‍🔬"
+                name: "Amit M.",
+                role: "Client",
+                testimonial: "Great platform, easy booking process, and the escort was absolutely amazing. Will definitely book again!",
+                avatar: "👍"
               },
               {
-                name: "Sneha Desai",
-                role: "Freelance Designer",
-                testimonial: "The networking events helped me land clients worth ₹50 lakhs annually. Grateful!",
-                avatar: "👩‍🎨"
+                name: "Vikram P.",
+                role: "Client",
+                testimonial: "Best experience ever! Professional, beautiful, and made my event truly special. Five stars!",
+                avatar: "⭐"
               }
             ].map((testimonial, idx) => (
               <div
@@ -207,10 +207,10 @@ export default function Home() {
       {/* CTA Section */}
       <section id="community" className="bg-gradient-to-r from-pink-600 to-pink-800 py-20 sm:py-32">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">Join Our Community Today</h2>
-          <p className="text-xl mb-8 opacity-90">Be part of a movement empowering females across Mumbai. Limited slots available for this month.</p>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">Book Your Companion Today</h2>
+          <p className="text-xl mb-8 opacity-90">Connect with our verified escorts and enjoy an unforgettable experience. Discreet and professional service guaranteed.</p>
           <button className="px-10 py-4 bg-white text-pink-600 rounded-lg font-bold text-lg hover:shadow-lg hover:shadow-pink-900 transition transform hover:scale-105">
-            Get Exclusive Access
+            Browse Escorts
           </button>
         </div>
       </section>
@@ -224,7 +224,7 @@ export default function Home() {
                 <div className="w-8 h-8 bg-gradient-to-br from-pink-500 to-pink-700 rounded-lg"></div>
                 <span className="font-bold text-white">Saumya</span>
               </div>
-              <p className="text-sm leading-relaxed">Empowering females in Mumbai through opportunities, mentorship, and community.</p>
+              <p className="text-sm leading-relaxed">Premium escort services in Mumbai. Discreet, professional, and verified companions available 24/7.</p>
             </div>
             <div>
               <h4 className="font-semibold text-white mb-4">Quick Links</h4>
@@ -254,7 +254,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-sm">
-            <p>© 2026 Saumya. All rights reserved. | Female Empowerment in Mumbai</p>
+            <p>© 2026 Saumya Escorts. All rights reserved. | Premium Escort Services in Mumbai</p>
           </div>
         </div>
       </footer>

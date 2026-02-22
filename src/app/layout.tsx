@@ -13,16 +13,16 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Saumya - Female Empowerment in Mumbai | Women Services & Support",
-  description: "Discover opportunities, services, and support for females in Mumbai. Empowering women through resources, community, and career development.",
-  keywords: "female in mumbai, women services, women empowerment, female entrepreneurs, women support",
+  title: "Escorts in Mumbai | Premium Escort Services & Companions",
+  description: "Premium escort services in Mumbai. Professional, discreet, and reliable companions for events, dates, and companionship. Available 24/7.",
+  keywords: "escorts in mumbai, call girls mumbai, companion services, escort agency, premium escorts, female companions",
   authors: [{ name: "Saumya" }],
   creator: "Saumya",
   openGraph: {
     type: "website",
     url: "https://saumya.example.com",
-    title: "Saumya - Female Empowerment in Mumbai",
-    description: "Empowering women through resources, community, and career development",
+    title: "Escorts in Mumbai | Premium Escort Services",
+    description: "Premium, professional, and discreet escort services in Mumbai",
     siteName: "Saumya",
   },
 };
